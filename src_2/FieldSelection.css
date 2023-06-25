@@ -1,0 +1,201 @@
+.field-selection,
+.field-selection * {
+    box-sizing: border-box;
+}
+
+.field-selection {
+    width: 607px;
+    height: 609px;
+    position: relative;
+    overflow: hidden;
+    backdrop-filter: blur(7px);
+}
+
+.elevation {
+    background: linear-gradient( to left, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12)), linear-gradient(to left, rgba(18, 20, 22, 0.6), rgba(18, 20, 22, 0.6));
+    border-radius: 23px;
+    width: 607px;
+    height: 609px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2), 0px 3px 14px 0px rgba(0, 0, 0, 0.12), 0px 8px 10px 0px rgba(0, 0, 0, 0.14);
+}
+
+._15 {
+    color: #aaa2fe;
+    text-align: center;
+    font: 700 30px "Inter", sans-serif;
+    position: absolute;
+    left: 198px;
+    top: 82px;
+}
+
+._1 {
+    text-align: center;
+    font: 700 20px "Inter", sans-serif;
+    position: absolute;
+    left: 127px;
+    top: 156px;
+}
+
+.span {
+    color: #c9ff32;
+    font: 700 20px "Inter", sans-serif;
+}
+
+.span2 {
+    color: #ffffff;
+    font: 700 20px "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86 {
+    text-align: left;
+    position: absolute;
+    left: 48px;
+    top: 201px;
+}
+
+._0-5-25-28-100-45-8-12-86-span {
+    color: #ffffff;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span2 {
+    color: #aaa2fe;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span3 {
+    color: #ffffff;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span4 {
+    color: #aaa2fe;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span5 {
+    color: #ffffff;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span6 {
+    color: #aaa2fe;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span7 {
+    color: #ffffff;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span8 {
+    color: #aaa2fe;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span9 {
+    color: #ffffff;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span10 {
+    color: #aaa2fe;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span11 {
+    color: #ffffff;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span12 {
+    color: #aaa2fe;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span13 {
+    color: #ffffff;
+    font: 700 23px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span14 {
+    color: #ffffff;
+    font: 700 26px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span15 {
+    color: #c9ff32;
+    font: 700 26px/158.52% "Inter", sans-serif;
+}
+
+._0-5-25-28-100-45-8-12-86-span16 {
+    color: #ffffff;
+    font: 700 26px/158.52% "Inter", sans-serif;
+}
+
+.group-20 {
+    position: absolute;
+    inset: 0;
+}
+
+._152 {
+    color: #ffffff;
+    text-align: center;
+    font: 700 20px "Inter", sans-serif;
+    position: absolute;
+    left: 437px;
+    top: 48px;
+}
+
+._45 {
+    color: #ffffff;
+    text-align: center;
+    font: 700 20px "Inter", sans-serif;
+    position: absolute;
+    left: 534px;
+    top: 48px;
+}
+
+.temperature-2 {
+    width: 43px;
+    height: 43px;
+    position: absolute;
+    left: 394px;
+    top: 38px;
+}
+
+.humidity-1 {
+    width: 44px;
+    height: 44px;
+    position: absolute;
+    left: 485px;
+    top: 38px;
+}
+
+.group-55 {
+    position: absolute;
+    inset: 0;
+}
+
+.rectangle-20 {
+    background: #ffffff;
+    border-radius: 20px;
+    width: 342px;
+    height: 64px;
+    position: absolute;
+    left: 118px;
+    top: 516px;
+}
+
+._2 {
+    color: rgba(18, 20, 22, 0.6);
+    text-align: center;
+    font: 700 25px "Inter", sans-serif;
+    position: absolute;
+    left: 179px;
+    top: 533px;
+    width: 229.82px;
+}
